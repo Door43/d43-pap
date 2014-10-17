@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pap:home|Door43 (pap)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pap|d43-pap repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pap/archive/master.zip|d43-pap.zip]]
+
+**Recent Changes**
+{{changes>ns = pap}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pap|Ethnologue data]]
+
